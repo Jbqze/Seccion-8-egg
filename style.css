@@ -17,6 +17,10 @@ body {
    
    
   }
+
+  .greeting { 
+    text-align: center;
+  }
   
   .footer{
 
